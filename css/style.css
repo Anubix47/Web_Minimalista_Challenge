@@ -1,0 +1,61 @@
+body {
+  font-family: "Lucida Sans";
+}
+.image_content {
+  background-color: #968d8d;
+  width: 336px;
+  height: 152px;
+  border-radius: 10px;
+}
+
+.image {
+  width: 336px;
+  height: 152px;
+  border-radius: 10px;
+}
+
+.title_content {
+  background-color: none;
+  width: 250px;
+  height: 20px;
+  margin-top: 16px;
+}
+
+.description {
+  font-size: 15px;
+  color: #6c727f;
+  width: 336;
+  margin-top: 16px;
+}
+
+.author_content {
+  font-size: 14px;
+  margin-top: 16px;
+}
+
+.card {
+  background-color: #ffffff;
+  width: 336px;
+  height: 336px;
+  padding: 16px;
+  border-radius: 10px;
+  margin-top: 164px;
+  margin-left: 40%;
+  box-shadow: 0 0 15px #968d8d;
+}
+
+.label {
+  background-color: #e6d6fc;
+  color: #883ae1;
+  font-style: bold;
+  width: 50px;
+  height: 15px;
+  font-size: 10px;
+  text-align: center;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 16px;
+  padding-top: 6px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
